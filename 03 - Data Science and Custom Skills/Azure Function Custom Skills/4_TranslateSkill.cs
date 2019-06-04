@@ -68,7 +68,7 @@ namespace SampleSkills
         #region Translator Text API Credentials
         static readonly string path = "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0";
 	    
-        // NOTE: Replace this example key with a valid subscription key.
+        // NOTE: Replace this example key with a valid subscription key from your Cognitive Service.
         static readonly string translatorApiKey = "";
 	
 	// If using the all in one key, modify with the region of the service (for example "westus"). See https://docs.microsoft.com/en-us/azure/cognitive-services/translator/reference/v3-0-reference  
